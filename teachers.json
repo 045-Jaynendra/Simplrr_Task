@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Akash",
+    "age": "26",
+    "dateOfBirth": "2024-03-22",
+    "numberOfClasses": "34",
+    "id": 10
+  },
+  {
+    "fullName": "Ankush",
+    "age": "24",
+    "dateOfBirth": "2024-02-28",
+    "numberOfClasses": "43",
+    "id": 11
+  },
+  {
+    "fullName": "Pintu",
+    "age": "24",
+    "dateOfBirth": "2024-03-15",
+    "numberOfClasses": "8",
+    "id": 12
+  },
+  {
+    "fullName": "chetan",
+    "age": "26",
+    "dateOfBirth": "2024-03-21",
+    "numberOfClasses": "3",
+    "id": 13
+  },
+  {
+    "fullName": "jay",
+    "dateOfBirth": "1998-07-28",
+    "numberOfClasses": "21",
+    "age": "25",
+    "id": 16
+  },
+  {
+    "fullName": "Jaynen",
+    "age": "19",
+    "dateOfBirth": "2004-06-30",
+    "numberOfClasses": "6",
+    "id": 17
+  },
+  {
+    "fullName": "jay",
+    "age": "0",
+    "dateOfBirth": "2024-05-10",
+    "numberOfClasses": "3",
+    "id": 18
+  }
+]
